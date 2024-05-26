@@ -1,8 +1,8 @@
 # TrafficLightClassification
 
-This repository contains the source code for a traffic classification program that uses Convolutional Neural Networks (CNN) in order to classify random images of traffic lights.
+This repository contains the source code for a traffic classification program that uses Convolutional Neural Networks (CNN) to classify random images of traffic lights.
 
-# How to Run:
+### How to Run:
 
 1. Ensure that the "train" folder that contains all the images of traffic light images is downloaded in the same folder as "CNN_Evaluate_Model.py" and "CNN_Model_Training.py".
 2. Run the "CNN_Model_Training.py" to begin training the model using an IDE of your choice.

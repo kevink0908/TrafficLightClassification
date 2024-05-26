@@ -1,8 +1,6 @@
-import numpy as np 
-import matplotlib.pyplot as plt
-import tensorflow as tf
-from PIL import Image
 import os
+import numpy as np 
+from PIL import Image
 from sklearn.model_selection import train_test_split
 from keras.utils import to_categorical
 from keras.models import Sequential, load_model
